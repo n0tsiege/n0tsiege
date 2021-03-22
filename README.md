@@ -7,8 +7,6 @@ I like working on big projects and helping out the community when I can. I'm an 
 
 **Other Socials**
 
-Twitter: notsiege_
+Twitter: n0tsiege
 
-Instagram: notsiege_
-
-Discord: https://discord.gg/3wbEfcJy2A - my tag is siege#4537
+Instagram: n0tsiege
