@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @notsiege-dev
+## 👋 Hi, I’m @n0tsiege
 
 I was born in Lansing, Michigan, now living in Southern Ohio.
 
@@ -8,6 +8,6 @@ I like working on big projects and helping out the community when I can. I'm an 
 
 **Other Socials**
 
-Twitter: n0tsiege
+Twitter: https://twitter.com/n0tsiege
 
-Instagram: n0tsiege
+Instagram: https://instagram.com/n0tsiege
