@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @n0tsiege
 
-I was born in Lansing, Michigan, now living in Southern Ohio.
+I was born in Lansing, Michigan, now living in Ohio.
 
 I like working on big projects and helping out the community when I can.
 
