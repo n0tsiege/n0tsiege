@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m @n0tsiege
 
-I like working on big projects and helping out the community when I can.
+I'm an Urban Planning Student, designer, developer, and visionary. I have lots of big ideas and I want to bring them to life!
 
-See my work at my [personal site](https://notsiege.wtf) and my [business site](https://notsiege.dev). (now taken down due to lack of use)
+I like working on big projects and helping out the community however I can.
 
 ![Siege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=n0tsiege&show_icons=true&theme=dark)
 
-**Other Socials**
+**Socials**
 
 [Twitter](https://twitter.com/n0tsiege)
 
